@@ -1,0 +1,26 @@
+---
+title: A very waffly post about waffles
+author: 'Stringr Belle'
+date: '2023-04-04'
+slug: a-very-waffly-post-about-waffles
+categories: []
+tags: []
+---
+
+this is *italicised*\
+
+this is **boldfaced**
+
+I want to talk about waffles, but the truth is that I actually don't know much about waffles, here are some things I don't know:
+
+- this
+- that
+- anything else
+
+1. this
+2. that
+3. anything else
+
+### header x1
+
+![random cat](https://placekitten.com/200/400)

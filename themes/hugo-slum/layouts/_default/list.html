@@ -17,7 +17,7 @@
       <ul>
         {{ range (where .Data.Pages "Section" "!=" "") }}
         <li>
-          <a href="{{ .URL }}">{{ .Title | markdownify }}</a>
+          <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
           <span class="flatlistdate">{{ .Date.Format "02 Jan 2006" }}</span>
         </li>
         {{ end }}
