@@ -8,29 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 05 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>New testx1</title>
-      <link>/post/new-testx1/</link>
+      <title>from others</title>
+      <link>/others/from-others/</link>
       <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/new-testx1/</guid>
-      <description>aGAIN !this is italicised
-this is boldfaced
-I want to talk about waffles, but the truth is that I actually don’t know much about waffles, here are some things I don’t know:
-thisthatanything elsethisthatanything elseheader x1random cat
-header xx2header xx3</description>
-    </item>
-    
-    <item>
-      <title>Test2</title>
-      <link>/post/cx/</link>
-      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/post/cx/</guid>
-      <description>aGAIN !this is italicised
-this is boldfaced
-I want to talk about waffles, but the truth is that I actually don’t know much about waffles, here are some things I don’t know:
-thisthatanything elsethisthatanything elseheader x1random cat
-header xx2header xx3xxx</description>
+      <guid>/others/from-others/</guid>
+      <description>Just a testTry others filesss</description>
     </item>
     
     <item>

@@ -56,6 +56,7 @@ footnotereturnlinkcontents = "↩"
 [permalinks]
     post = "/post/:slug/"
     project = "/project/:slug/"
+    others = "/others/:slug/"
 #
 # Alternative version:
 #   post = "/post/:year/:month/:day/:slug/"
@@ -85,7 +86,10 @@ footnotereturnlinkcontents = "↩"
     name = "Projects"
     url = "/project/"
     weight = 4
-
+[[menu.main]]
+    name = "Others"
+    url = "/others/"
+    weight = 5
 
 
 

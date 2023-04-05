@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/others/from-others/</loc>
+    <lastmod>2023-04-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/</loc>
     <lastmod>2023-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/new-testx1/</loc>
-    <lastmod>2023-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
-    <lastmod>2023-04-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/cx/</loc>
+    <loc>/others/</loc>
     <lastmod>2023-04-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/a-very-waffly-post-about-waffles/</loc>
+    <lastmod>2023-04-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
     <lastmod>2023-04-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/blogdown/</loc>

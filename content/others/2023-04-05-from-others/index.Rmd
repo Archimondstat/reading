@@ -1,0 +1,11 @@
+---
+title: from others
+author: AC
+date: '2023-04-05'
+slug: from-others
+categories: []
+tags: []
+---
+
+# Just a test
+Try others filesss
