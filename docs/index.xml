@@ -1,15 +1,50 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Slumdown</title>
+    <title>Home on wwwwwww</title>
     <link>/</link>
-    <description>Recent content in Home on Slumdown</description>
+    <description>Recent content in Home on wwwwwww</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New testx1</title>
+      <link>/post/new-testx1/</link>
+      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/new-testx1/</guid>
+      <description>aGAIN !this is italicised
+this is boldfaced
+I want to talk about waffles, but the truth is that I actually don’t know much about waffles, here are some things I don’t know:
+thisthatanything elsethisthatanything elseheader x1random cat
+header xx2header xx3</description>
+    </item>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test2</title>
+      <link>/post/cx/</link>
+      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cx/</guid>
+      <description>aGAIN !this is italicised
+this is boldfaced
+I want to talk about waffles, but the truth is that I actually don’t know much about waffles, here are some things I don’t know:
+thisthatanything elsethisthatanything elseheader x1random cat
+header xx2header xx3xxx</description>
+    </item>
     
+    <item>
+      <title>A very waffly post about waffles</title>
+      <link>/post/a-very-waffly-post-about-waffles/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-very-waffly-post-about-waffles/</guid>
+      <description>this is italicised
+this is boldfaced
+I want to talk about waffles, but the truth is that I actually don’t know much about waffles, here are some things I don’t know:
+thisthatanything elsethisthatanything elseheader x1random cat
+header xx2header xx3</description>
+    </item>
     
     <item>
       <title>Tutorial part 1: Getting started</title>
@@ -80,7 +115,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>The idea behind slumdown The slum theme for Hugo and blogdown is an adaptation Yihue Xie’s Xmin theme that borrows stylistic elements from the Tufte R Markdown theme and from the academic Hugo theme. Originally it was intended to be extremely minimal, with the very modest goal of trying to make sure I understood the logic of how Hugo generates static sites. The more I played with it though, the more I enjoyed it.</description>
+      <description>The idea behind slumdownThe slum theme for Hugo and blogdown is an adaptation Yihue Xie’s Xmin theme that borrows stylistic elements from the Tufte R Markdown theme and from the academic Hugo theme. Originally it was intended to be extremely minimal, with the very modest goal of trying to make sure I understood the logic of how Hugo generates static sites. The more I played with it though, the more I enjoyed it.</description>
     </item>
     
   </channel>

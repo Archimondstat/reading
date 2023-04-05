@@ -9,7 +9,7 @@
 # GitHub pages the way I've done for the example site at
 # https://djnavarro.github.io/hugo-slum/, then you can do something
 # like this:
-baseurl = "/hugo-slum/"
+baseurl = "/wallfe-blog/"
 
 
 
@@ -26,7 +26,7 @@ publishDir = "docs"
 
 # These settings specify the title for your blog, and the name of
 # the Hugo theme that it uses.
-title = "Slumdown"
+title = "wwwwwww"
 theme = "hugo-slum"
 
 
@@ -85,10 +85,7 @@ footnotereturnlinkcontents = "↩"
     name = "Projects"
     url = "/project/"
     weight = 4
-[[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 5
+
 
 
 
@@ -111,6 +108,6 @@ footnotereturnlinkcontents = "↩"
     siteHeader = "header/mpg_dark.png"
     siteProfile = "header/my_profile.png"
     twitterImage = "https://djnavarro.github.io/hugo-slum/header/slumdown.png"
-    colourScheme = "css/palette_dark.css"
+    colourScheme = "css/palette_light.css"
     description = "A website built using slumdown."
     footer = "&copy; [Danielle Navarro](https://djnavarro.net) 2018--2019 | [Github](https://github.com/djnavarro) | [Twitter](https://twitter.com/djnavarro)"
